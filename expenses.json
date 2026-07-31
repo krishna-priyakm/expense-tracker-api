@@ -1,0 +1,23 @@
+[
+  {
+    "id": "a1075942-ceb4-4058-a112-445309fb45b5",
+    "title": "Burger",
+    "amount": 250,
+    "category": "Food",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "7a67431a-ed46-45cc-b504-eb5f7d49302f",
+    "title": "Bus Ticket",
+    "amount": 80,
+    "category": "Travel",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "59cc755c-08e4-42e1-91ab-97c75c6b3ba7",
+    "title": "Test Expense",
+    "amount": 100,
+    "category": "Testing",
+    "date": "2026-07-31"
+  }
+]
